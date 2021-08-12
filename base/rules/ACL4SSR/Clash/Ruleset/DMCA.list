@@ -43,6 +43,12 @@ DOMAIN-SUFFIX,xunlei.net
 PROCESS-NAME,DownloadSDKServer.exe
 PROCESS-NAME,Thunder
 PROCESS-NAME,Thunder.exe
+## >>360
+URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
+## >>Tencent Weiyun
+PROCESS-NAME,Weiyun.exe
+## >>Baidu disk
+PROCESS-NAME,baidunetdisk.exe
 ## >> 烽动CDN
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
