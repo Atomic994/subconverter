@@ -1,4 +1,4 @@
-# 机场审计规则屏蔽某些网站
+# 机场审计规则屏蔽的某些网站
 
 DOMAIN-SUFFIX,dafahao.com
 DOMAIN-SUFFIX,falundafamuseum.org
