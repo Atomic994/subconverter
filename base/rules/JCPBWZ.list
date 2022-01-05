@@ -1,0 +1,12 @@
+# 机场审计规则屏蔽某些网站
+
+DOMAIN-SUFFIX,dafahao.com
+DOMAIN-SUFFIX,falundafamuseum.org
+DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,mhradio.org
+DOMAIN-SUFFIX,dongtaiwang.com
+DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,ntdtv.com
+DOMAIN-SUFFIX,falundafa.org
+DOMAIN-SUFFIX,wujieliulan.com
