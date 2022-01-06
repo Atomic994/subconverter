@@ -1,5 +1,15 @@
 # 机场审计规则屏蔽的某些网站
 
+DOMAIN-KEYWORD,dafahao
+DOMAIN-KEYWORD,falundafamuseum
+DOMAIN-KEYWORD,rfa
+DOMAIN-KEYWORD,minghui
+DOMAIN-KEYWORD,mhradio
+DOMAIN-KEYWORD,dongtaiwang
+DOMAIN-KEYWORD,epochtimes
+DOMAIN-KEYWORD,ntdtv
+DOMAIN-KEYWORD,falundafa
+DOMAIN-KEYWORD,wujieliulan
 DOMAIN-SUFFIX,dafahao.com
 DOMAIN-SUFFIX,falundafamuseum.org
 DOMAIN-SUFFIX,rfa.org
