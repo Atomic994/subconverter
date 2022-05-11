@@ -1,3 +1,5 @@
 # 需要直连中国IP列表
 
 DOMAIN-SUFFIX,iptv.tvfix.org
+DOMAIN-SUFFIX,honyin.cf
+DOMAIN,www.honyin.cf
