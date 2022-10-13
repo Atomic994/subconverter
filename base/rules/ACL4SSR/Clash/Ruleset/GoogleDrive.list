@@ -8,6 +8,7 @@
 # TOTAL: 6
 DOMAIN,play.googleapis.com
 DOMAIN,www.googleapis.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,googledrive.com
