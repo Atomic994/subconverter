@@ -36,3 +36,6 @@ DOMAIN-SUFFIX,zte.home
 # DDNS服务域名
 DOMAIN-SUFFIX,asuscomm.com
 DOMAIN-SUFFIX,synology.me
+
+# Snapdrop域名
+DOMAIN-SUFFIX,snapdrop.net
