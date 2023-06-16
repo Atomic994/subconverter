@@ -3,10 +3,10 @@
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,dcs.megaphone.fm
 DOMAIN-SUFFIX,pdst.fm
-DOMAIN-SUFFIX,googlesyndication.com
 
 # Google
-DOMAIN-SUFFIX,goo.gle
+# DOMAIN-SUFFIX,goo.gle
+# DOMAIN-SUFFIX,googlesyndication.com
 
 # Bing
 DOMAIN-SUFFIX,bing.com
