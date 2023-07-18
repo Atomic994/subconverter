@@ -4,8 +4,10 @@ DOMAIN-SUFFIX,dcs.megaphone.fm
 DOMAIN-SUFFIX,pdst.fm
 
 # Google
-# DOMAIN-SUFFIX,goo.gle
-# DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,goo.gle
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+
 
 # Bing
 DOMAIN-SUFFIX,bing.com
