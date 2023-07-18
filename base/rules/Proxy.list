@@ -689,3 +689,20 @@ DOMAIN,wego.here.com
 # > Alphabet
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
+
+# Customize Your Own Rule
+DOMAIN-SUFFIX,merlinblog.xyz
+DOMAIN-SUFFIX,dcs.megaphone.fm
+DOMAIN-SUFFIX,pdst.fm
+
+# Google
+DOMAIN-SUFFIX,goo.gle
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,services.googleapis.cn
+
+# Bing
+DOMAIN-SUFFIX,bing.com
