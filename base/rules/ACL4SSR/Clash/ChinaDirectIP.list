@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,windowsupdate.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,wustat.windows.com
 DOMAIN,ntservicepack.microsoft.com
+
+# > IP Query
+DOMAIN,ip.istatmenus.app
+DOMAIN,sms.imagetasks.com
