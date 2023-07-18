@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,gstatic.com
-
+DOMAIN-SUFFIX,googleapis.cn
 
 # Bing
 DOMAIN-SUFFIX,bing.com
