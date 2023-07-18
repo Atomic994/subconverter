@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,encoretvb.com
 
 # TVBAnywhere
 DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN-SUFFIX,pmv4k0zsuc.execute-api.us-west-2.amazonaws.com
 
 # Fox
 DOMAIN-SUFFIX,fox.com
