@@ -1,0 +1,58 @@
+# Deezer
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+
+# EncoreTVB
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
+
+# Fox
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN,cdn-fox-networks-group-green.akamaized.net
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,foxplus.com
+
+# Hulu
+DOMAIN-SUFFIX,cws-hulu.conviva.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+# ITV
+DOMAIN,itvpnpmobile-a.akamaihd.net
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+
+# JOOX
+DOMAIN-KEYWORD,jooxweb-api
+DOMAIN-SUFFIX,joox.com
+
+# KKBOX
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+
+# My5
+DOMAIN,d349g9zuie06uo.cloudfront.net
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,my5.tv
+
+# PBS
+DOMAIN-SUFFIX,pbs.org
+
+# Pandora
+DOMAIN-SUFFIX,pandora.com
+DOMAIN-SUFFIX,pandora.tv
