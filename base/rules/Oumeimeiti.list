@@ -50,7 +50,8 @@ DOMAIN-SUFFIX,fw.adsafeprotected.com
 DOMAIN-SUFFIX,launches.appsflyer.com
 DOMAIN-SUFFIX,metrics.brightcove.com
 DOMAIN-SUFFIX,vast.doubleverify.com
-
+DOMAIN-SUFFIX,pushwoosh.com
+DOMAIN-SUFFIX,mopub.com
 
 # Fox
 DOMAIN-SUFFIX,fox.com
