@@ -40,6 +40,14 @@ DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,synocommunity.com
 
+#本地流媒体
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,me.plexapp.com
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,jellyfin.org
+DOMAIN-SUFFIX,emby.media
+
+
 # Snapdrop域名
 DOMAIN-SUFFIX,snapdrop.net
 
