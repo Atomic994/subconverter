@@ -222,6 +222,7 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # Bing
 DOMAIN-SUFFIX,bing.com
