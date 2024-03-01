@@ -75,8 +75,9 @@ DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,technews.tw
 
 # HK IPTV
-# DOMAIN-SUFFIX,cdn.hkyoutv.com
-# DOMAIN-SUFFIX,hkdtmb.com
-# DOMAIN-SUFFIX,cdn.hklive.tv
-# DOMAIN-SUFFIX,stream.hkanime.live
+DOMAIN-SUFFIX,cdn.hkyoutv.com
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,stream.hkanime.live
 DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,hkdvb.com
