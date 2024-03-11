@@ -67,11 +67,11 @@ DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw
 
 # HK域名
-DOMAIN-SUFFIX,hk
+DOMAIN-KEYWORD,hk
 DOMAIN-SUFFIX,cityline.com
 
 # TW域名
-DOMAIN-SUFFIX,tw
+DOMAIN-KEYWORD,tw
 DOMAIN-SUFFIX,technews.tw
 
 # HK IPTV
