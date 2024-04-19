@@ -49,4 +49,7 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 
+# Meta ai
+DOMAIN-SUFFIX,meta.ai
+
 
