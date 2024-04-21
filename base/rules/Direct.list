@@ -48,6 +48,9 @@ DOMAIN-SUFFIX,synocommunity.com
 # Snapdrop域名
 DOMAIN-SUFFIX,snapdrop.net
 
+# Plex域名
+DOMAIN-SUFFIX,plex.tv
+
 ## DMCA敏感
 ## > Proxy plugin
 PROCESS-NAME,v2ray.exe
