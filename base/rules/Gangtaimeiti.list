@@ -80,6 +80,6 @@ DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,stream.hkanime.live
 DOMAIN-SUFFIX,hkdvb.com
-IP-CIDR,142.171.43.47,no-resolve
+IP-CIDR,142.171.43.47/24,no-resolve
 # DOMAIN-SUFFIX,stream-link.org
 # DOMAIN-SUFFIX,stream-link.online
