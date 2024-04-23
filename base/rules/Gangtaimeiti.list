@@ -88,4 +88,5 @@ DOMAIN,content.stream-link.org
 DOMAIN,www.stream-link.org
 DOMAIN,sc2024.stream-link.org
 DOMAIN,2024long04.stream-link.online
+IP-CIDR,142.171.43.47/32,no-resolve
 
