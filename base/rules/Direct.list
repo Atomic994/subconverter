@@ -48,8 +48,11 @@ DOMAIN-SUFFIX,synocommunity.com
 # Snapdrop域名
 DOMAIN-SUFFIX,snapdrop.net
 
-# Plex域名
+# Plex远程
 DOMAIN-SUFFIX,plex.tv
+
+# Jellyfin远程
+DOMAIN-SUFFIXjellyfin.org
 
 ## DMCA敏感
 ## > Proxy plugin
