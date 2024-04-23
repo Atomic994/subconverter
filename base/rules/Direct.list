@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,synocommunity.com
 DOMAIN,alidns.aliyuncs.com
+DOMAIN,members.3322.org
 
 # Snapdrop域名
 DOMAIN-SUFFIX,snapdrop.net
