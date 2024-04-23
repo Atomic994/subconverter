@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,synocommunity.com
+DOMAIN,alidns.aliyuncs.com
 
 # Snapdrop域名
 DOMAIN-SUFFIX,snapdrop.net
