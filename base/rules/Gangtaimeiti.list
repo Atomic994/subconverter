@@ -82,7 +82,8 @@ DOMAIN-SUFFIX,stream.hkanime.live
 DOMAIN-SUFFIX,hkdvb.com
 
 # stream-link IPTV
-IP-CIDR,142.171.43.47/32,no-resolve
-# DOMAIN-SUFFIX,stream-link.org
-# DOMAIN-SUFFIX,stream-link.online
+# IP-CIDR,142.171.43.47/32,no-resolve
+DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,stream-link.online
+DOMAIN,content.stream-link.org
 
