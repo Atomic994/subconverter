@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,plex.tv
 
 # Jellyfin远程
-DOMAIN-SUFFIXjellyfin.org
+DOMAIN-SUFFIX,jellyfin.org
 
 ## DMCA敏感
 ## > Proxy plugin
