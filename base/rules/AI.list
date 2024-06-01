@@ -53,4 +53,6 @@ DOMAIN-KEYWORD,generativelanguage
 # Meta ai
 DOMAIN-SUFFIX,meta.ai
 
-
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity
