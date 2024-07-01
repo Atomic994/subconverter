@@ -226,3 +226,10 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # Bing
 DOMAIN-SUFFIX,bing.com
+
+# 海外IPTV
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
