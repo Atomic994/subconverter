@@ -53,9 +53,6 @@ DOMAIN,members.3322.org
 # Snapdrop域名
 DOMAIN-SUFFIX,snapdrop.net
 
-# Plex远程
-DOMAIN-SUFFIX,plex.tv
-
 # Jellyfin远程
 DOMAIN-SUFFIX,jellyfin.org
 
