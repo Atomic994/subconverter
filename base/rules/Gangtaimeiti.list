@@ -51,6 +51,7 @@ PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu
 # DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,youboranqs01.com
 
 # 内容：MyTVSuper
 # 数量：5条
