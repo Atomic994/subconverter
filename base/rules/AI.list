@@ -59,3 +59,6 @@ DOMAIN-KEYWORD,perplexity
 
 # Grok
 DOMAIN-SUFFIX,x.ai
+
+# Groq
+DOMAIN-SUFFIX,groq.com
