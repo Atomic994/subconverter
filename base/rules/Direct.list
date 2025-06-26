@@ -1264,5 +1264,8 @@ DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,xauat6.edu.cn
 
+# Plex Server
+DOMAIN-SUFFIX,v4.plex.tv
+
 # MacOS APP
 PROCESS-NAME,Plex Media Server
