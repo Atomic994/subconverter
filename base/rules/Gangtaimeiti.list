@@ -62,7 +62,7 @@ DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 
-# 内容：TaiWanGood 台湾好
+# 内容：TaiWanGood 台湾好(TW)
 # 数量：3条
 USER-AGENT,TaiwanGood*
 DOMAIN,hamifans.emome.net
@@ -74,14 +74,14 @@ DOMAIN-SUFFIX,cityline.com
 # Technews(TW)
 DOMAIN-SUFFIX,technews.tw
 
-# HK IPTV
+# HK IPTV(HK)
 DOMAIN-SUFFIX,cdn.hkyoutv.com
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,stream.hkanime.live
 DOMAIN-SUFFIX,hkdvb.com
 
-# stream-link IPTV
+# stream-link IPTV(HK)
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,stream-link.online
 DOMAIN,content.stream-link.org
@@ -89,4 +89,7 @@ DOMAIN,www.stream-link.org
 DOMAIN,sc2024.stream-link.org
 DOMAIN,2024long04.stream-link.online
 IP-CIDR,142.171.43.47/32,no-resolve
+
+# Watchout沃草(TW)
+DOMAIN-SUFFIX,watchout.tw
 
