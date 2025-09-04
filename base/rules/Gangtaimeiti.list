@@ -93,3 +93,6 @@ IP-CIDR,142.171.43.47/32,no-resolve
 # Watchout沃草(TW)
 DOMAIN-SUFFIX,watchout.tw
 
+# 客新闻hakkanews(TW)
+DOMAIN-SUFFIX,hakkanews.tw
+
