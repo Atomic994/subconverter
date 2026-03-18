@@ -1,0 +1,88 @@
+# --- 香港专属顶级域名 (TLD) ---
+DOMAIN-SUFFIX,com.hk
+DOMAIN-SUFFIX,net.hk
+DOMAIN-SUFFIX,org.hk
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,edu.hk
+
+# --- 门户搜索与综合服务 ---
+# Yahoo Hong Kong
+DOMAIN-SUFFIX,yahoo.com.hk
+DOMAIN-SUFFIX,hk.yahoo.com
+
+# 常用论坛
+DOMAIN-SUFFIX,lihkg.com
+DOMAIN-SUFFIX,discuss.com.hk
+DOMAIN-SUFFIX,uwants.com
+
+# --- 香港流媒体 (包含你提供的 ViuTV/MyTVSuper) ---
+# ViuTV & NowTV
+USER-AGENT,Viu*
+USER-AGENT,ViuTV*
+DOMAIN,api.viu.now.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.now.com
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,now.com
+
+# MyTVSuper & TVB
+USER-AGENT,mytv*
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,edgeware.tvb.com
+
+# --- 香港 IPTV 规则 (包含你提供的 stream-link 等) ---
+# Hkdtmb 相关
+DOMAIN-SUFFIX,cdn.hkyoutv.com
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,stream.hkanime.live
+DOMAIN-SUFFIX,hkdvb.com
+DOMAIN-SUFFIX,hrtn.net
+
+# stream-link 相关
+DOMAIN-SUFFIX,stream-link.org
+DOMAIN-SUFFIX,stream-link.online
+DOMAIN,content.stream-link.org
+DOMAIN,www.stream-link.org
+DOMAIN,sc2024.stream-link.org
+DOMAIN,2024long04.stream-link.online
+IP-CIDR,142.171.43.47/32,no-resolve
+
+# --- 香港媒体与资讯 (包含 Cityline) ---
+DOMAIN-SUFFIX,cityline.com
+DOMAIN-SUFFIX,hk01.com
+DOMAIN-SUFFIX,hket.com
+DOMAIN-SUFFIX,mingpao.com
+DOMAIN-SUFFIX,on.cc
+DOMAIN-SUFFIX,scmp.com
+DOMAIN-SUFFIX,stheadline.com
+DOMAIN-SUFFIX,am730.com.hk
+
+# --- 香港生活、电商与金融 ---
+# 购物
+DOMAIN-SUFFIX,hktvmall.com
+DOMAIN-SUFFIX,price.com.hk
+DOMAIN-SUFFIX,fortress.com.hk
+
+# 金融/八达通 (Octopus)
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,standardchartered.com.hk
+DOMAIN-SUFFIX,bochk.com
+
+# --- 关键 CDN 注意事项 (谨慎分流) ---
+# 以下域名常被 ViuTV 使用，但属于全球 CDN。如果这些域名走香港不影响你其他上网，可以保留。
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,youboranqs01.com
+
+# --- 香港地理位置兜底 ---
+GEOIP,HK,no-resolve
