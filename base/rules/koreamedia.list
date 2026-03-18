@@ -1,6 +1,5 @@
 # --- 韩国专属顶级域名 (TLD) ---
 # 捕获所有以韩国后缀结尾的请求
-DOMAIN-SUFFIX,kr
 DOMAIN-SUFFIX,co.kr
 DOMAIN-SUFFIX,ne.kr
 DOMAIN-SUFFIX,or.kr
@@ -8,10 +7,6 @@ DOMAIN-SUFFIX,re.kr
 DOMAIN-SUFFIX,pe.kr
 DOMAIN-SUFFIX,go.kr
 DOMAIN-SUFFIX,ac.kr
-# 韩文顶级域名 (UTF-8 原文 - 备用)
-DOMAIN-SUFFIX,한국
-# 韩文顶级域名 (Punycode 编码 - 推荐)
-DOMAIN-SUFFIX,xn--3e0b707e
 
 # --- 门户搜索与综合服务 ---
 # Naver (韩国第一大门户)
@@ -36,8 +31,6 @@ DOMAIN-SUFFIX,zum.com
 DOMAIN-SUFFIX,zumst.com
 
 # --- 社交与即时通讯 ---
-DOMAIN-SUFFIX,line-apps.com
-DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,band.us
 DOMAIN-SUFFIX,toss.im
 DOMAIN-SUFFIX,toss.io
