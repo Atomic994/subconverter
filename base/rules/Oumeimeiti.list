@@ -141,3 +141,19 @@ DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
 
+# --- 美国 IPTV 源与后端域名 ---
+DOMAIN-SUFFIX,catvod.com
+DOMAIN-SUFFIX,go-iptv.ggff.net
+DOMAIN-SUFFIX,vip-tptv.xyz
+
+# 常见的 IPTV 中转/动态域名
+DOMAIN-SUFFIX,qzz.io
+DOMAIN-SUFFIX,858.qzz.io
+DOMAIN-SUFFIX,bee.tzh911.qzz.io
+DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,pendy.dpdns.org
+DOMAIN-SUFFIX,ru8.dpdns.org
+DOMAIN-SUFFIX,diver.eu.org
+DOMAIN-SUFFIX,wrod.diver.eu.org
+DOMAIN-SUFFIX,judy.xx.kg
+DOMAIN-SUFFIX,8plus.eu.org
