@@ -431,3 +431,6 @@ DOMAIN-SUFFIX,yihaomall.com
 DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
+
+# --- 中国地理位置兜底 --
+GEOIP,CN,no-resolve
