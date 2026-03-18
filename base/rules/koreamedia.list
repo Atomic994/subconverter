@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,한국
 # 韩文顶级域名 (Punycode 编码 - 推荐)
 DOMAIN-SUFFIX,xn--3e0b707e
 
-
-
 # --- 门户搜索与综合服务 ---
 # Naver (韩国第一大门户)
 DOMAIN-SUFFIX,naver.com
@@ -90,8 +88,8 @@ DOMAIN-SUFFIX,pubg.com
 # Pearl Abyss (Black Desert)
 DOMAIN-SUFFIX,pearlabyss.com
 DOMAIN-SUFFIX,playblackdesert.com
-# Kakao Games
 
+# Kakao Games
 DOMAIN-SUFFIX,kakaogames.io
 
 # --- 韩国电商与购物 ---
