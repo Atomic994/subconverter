@@ -43,17 +43,15 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN,kktv-theater.kk.stream
 
 # JOOX (台湾/港台区)
-USER-AGENT,JOOX*
-USER-AGENT,WeMusic*
-DOMAIN-KEYWORD,jooxweb-api
-DOMAIN-SUFFIX,joox.com
+# USER-AGENT,JOOX*
+# USER-AGENT,WeMusic*
+# DOMAIN-KEYWORD,jooxweb-api
+# DOMAIN-SUFFIX,joox.com
 
 # 其他台湾主流流媒体 (补全)
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,friday.tw
-DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hamivideo.hinet.net
 
 # 台湾好 (TaiwanGood)
@@ -65,6 +63,7 @@ DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,watchout.tw
 DOMAIN-SUFFIX,hakkanews.tw
+
 # 补全主流新闻
 DOMAIN-SUFFIX,ettoday.net
 DOMAIN-SUFFIX,ltn.com.tw
