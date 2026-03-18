@@ -1,0 +1,46 @@
+# --- 新加坡专属顶级域名 (TLD) ---
+DOMAIN-SUFFIX,com.sg
+DOMAIN-SUFFIX,net.sg
+DOMAIN-SUFFIX,org.sg
+DOMAIN-SUFFIX,gov.sg
+DOMAIN-SUFFIX,edu.sg
+
+# --- 门户搜索与综合服务 ---
+# Yahoo Singapore
+DOMAIN-SUFFIX,yahoo.com.sg
+DOMAIN-SUFFIX,sg.yahoo.com
+
+# --- 新加坡流媒体与 IPTV (包含你提供的 StarHub/Astro) ---
+# MeWatch (新加坡最大的免费流媒体)
+DOMAIN-SUFFIX,mewatch.sg
+DOMAIN-SUFFIX,mediacorp.sg
+
+# StarHub & Singtel (本地两大电信运营商)
+DOMAIN-SUFFIX,starhub.com
+DOMAIN-SUFFIX,starhubgo.com
+DOMAIN-SUFFIX,starhubtvplus.com
+DOMAIN-SUFFIX,singtel.com
+DOMAIN-SUFFIX,singtel-tv.com.sg
+
+# Astro等 (来自你提供的列表)
+DOMAIN-KEYWORD,astro
+DOMAIN-SUFFIX,wavve
+
+# 其他流媒体相关
+DOMAIN-SUFFIX,viddsee.com
+
+# --- 新加坡金融与银行 ---
+DOMAIN-SUFFIX,dbs.com
+DOMAIN-SUFFIX,dbs.com.sg
+DOMAIN-SUFFIX,posb.com.sg
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,uob.com.sg
+DOMAIN-SUFFIX,standardchartered.com.sg
+
+# --- 游戏加速 (新加坡是东南亚游戏服中心) ---
+# Garena (新加坡公司)
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.sg
+
+# --- 新加坡地理位置兜底 ---
+GEOIP,SG,no-resolve
