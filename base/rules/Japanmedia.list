@@ -1,0 +1,100 @@
+# --- 日本专属顶级域名 (TLD) ---
+DOMAIN-SUFFIX,co.jp
+DOMAIN-SUFFIX,ne.jp
+DOMAIN-SUFFIX,or.jp
+DOMAIN-SUFFIX,ac.jp
+DOMAIN-SUFFIX,ad.jp
+
+# --- 门户搜索与综合服务 ---
+# Yahoo Japan (日本最大的入口，独立于 Google)
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yimg.jp
+DOMAIN-SUFFIX,yahoo.jp
+
+# Rakuten (乐天生态)
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,rakuten.ne.jp
+
+# 其他门户
+DOMAIN-SUFFIX,goo.ne.jp
+DOMAIN-SUFFIX,livedoor.com
+DOMAIN-SUFFIX,livedoor.jp
+
+# --- 社交与通讯 ---
+DOMAIN-SUFFIX,note.com
+DOMAIN-SUFFIX,mixi.jp
+
+# --- 流媒体 (Abema/Nico/DMM) ---
+# AbemaTV
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,ameblo.jp
+
+# Niconico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,dmc.nico
+
+# DMM 
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+
+# TVer & U-NEXT (日本主流电视/流媒体)
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,paravi.jp
+
+# 音乐
+DOMAIN-SUFFIX,mora.jp
+DOMAIN-SUFFIX,radiko.jp
+
+# --- 二次元与电商 (包含 Pixiv) ---
+# Pixiv
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pixiv.me
+
+# 购物/同人
+DOMAIN-SUFFIX,mercari.com
+DOMAIN-SUFFIX,mercari.jp
+DOMAIN-SUFFIX,toranoana.jp
+DOMAIN-SUFFIX,animate.co.jp
+DOMAIN-SUFFIX,animate-onlineshop.jp
+DOMAIN-SUFFIX,suruga-ya.jp
+
+# --- 游戏平台及更新服务器 ---
+# Nintendo
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.com
+
+# Sony / PlayStation (日本区)
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,jp.playstation.com
+
+# Cygames (赛马娘、碧蓝幻想等)
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-SUFFIX,cygames.co.jp
+
+# Square Enix & Capcom
+DOMAIN-SUFFIX,square-enix.com
+DOMAIN-SUFFIX,capcom.co.jp
+
+# --- 日本地理位置兜底 ---
+GEOIP,JP,no-resolve
