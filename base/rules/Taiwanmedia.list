@@ -1,0 +1,106 @@
+# --- 台湾专属顶级域名 (TLD) ---
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,org.tw
+DOMAIN-SUFFIX,net.tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,idv.tw
+
+# --- 门户搜索、论坛与综合服务 ---
+# Yahoo Taiwan (台湾用户最常用的门户)
+DOMAIN-SUFFIX,yahoo.com.tw
+DOMAIN-SUFFIX,tw.yahoo.com
+
+# PTT (台湾最大的论坛)
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,ptt.website
+
+# 综合社区
+DOMAIN-SUFFIX,mobile01.com
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,babyhome.com.tw
+
+# --- 台湾流媒体 (包含你提供的 Bahamut/KKTV/JOOX 等) ---
+# 巴哈姆特动画疯 (Bahamut)
+USER-AGENT,Anime*
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+
+# 中华电信/Hinet (关键加速节点)
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,emome.net
+
+# KKBOX & KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv.ios.kktv*
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN,kktv-theater.kk.stream
+
+# JOOX (台湾/港台区)
+USER-AGENT,JOOX*
+USER-AGENT,WeMusic*
+DOMAIN-KEYWORD,jooxweb-api
+DOMAIN-SUFFIX,joox.com
+
+# 其他台湾主流流媒体 (补全)
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hamivideo.hinet.net
+
+# 台湾好 (TaiwanGood)
+USER-AGENT,TaiwanGood*
+DOMAIN,hamifans.emome.net
+DOMAIN-SUFFIX,skyking.com.tw
+
+# --- 新闻与媒体 (包含你提供的 TechNews 等) ---
+DOMAIN-SUFFIX,technews.tw
+DOMAIN-SUFFIX,watchout.tw
+DOMAIN-SUFFIX,hakkanews.tw
+# 补全主流新闻
+DOMAIN-SUFFIX,ettoday.net
+DOMAIN-SUFFIX,ltn.com.tw
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,tvbs.com.tw
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,storm.mg
+
+# --- 台湾电商与金融 ---
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,momoshop.com.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,ruten.com.tw
+DOMAIN-SUFFIX,books.com.tw
+DOMAIN-SUFFIX,jkos.com
+DOMAIN-SUFFIX,linepay.tw
+
+# --- 台湾 IPTV 域名规则 ---
+# 中华电信 Hinet (关键骨干网/CDN)
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,cdn.hinet.net
+
+# 4GTV 四季线上
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,api2.4gtv.tv
+
+# Ofiii 欧飞 (免费合法流媒体)
+DOMAIN-SUFFIX,ofiii.com
+
+# 其他相关 (根据你提供的列表提取)
+DOMAIN-SUFFIX,infini.money
+
+# --- 台湾 IPTV IP 规则 (精准匹配) ---
+# 特定流媒体服务器 IP
+IP-CIDR,123.51.231.132/32,no-resolve
+IP-CIDR,60.250.121.103/32,no-resolve
+
+# --- 台湾地理位置兜底 ---
+GEOIP,TW,no-resolve
