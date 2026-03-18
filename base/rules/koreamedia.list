@@ -1,0 +1,109 @@
+# --- 韩国专属顶级域名 (TLD) ---
+# 捕获所有以韩国后缀结尾的请求
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,co.kr
+DOMAIN-SUFFIX,ne.kr
+DOMAIN-SUFFIX,or.kr
+DOMAIN-SUFFIX,re.kr
+DOMAIN-SUFFIX,pe.kr
+DOMAIN-SUFFIX,go.kr
+DOMAIN-SUFFIX,ac.kr
+# 韩文顶级域名 (UTF-8 原文 - 备用)
+DOMAIN-SUFFIX,한국
+# 韩文顶级域名 (Punycode 编码 - 推荐)
+DOMAIN-SUFFIX,xn--3e0b707e
+
+
+
+# --- 门户搜索与综合服务 ---
+# Naver (韩国第一大门户)
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,naver.net
+DOMAIN-SUFFIX,nstatic.net
+DOMAIN-SUFFIX,pstatic.net
+DOMAIN-SUFFIX,pstatic.io
+DOMAIN-SUFFIX,line-cdn.net
+
+# Daum & Kakao
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,daumcdn.net
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaocorp.com
+DOMAIN-SUFFIX,kakaogames.com
+
+# Nate & Zum
+DOMAIN-SUFFIX,nate.com
+DOMAIN-SUFFIX,zum.com
+DOMAIN-SUFFIX,zumst.com
+
+# --- 社交与即时通讯 ---
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,band.us
+DOMAIN-SUFFIX,toss.im
+DOMAIN-SUFFIX,toss.io
+
+# --- 韩国流媒体与音影内容 ---
+# 视频平台
+DOMAIN-SUFFIX,afreecatv.com
+DOMAIN-SUFFIX,afreeca.com
+DOMAIN-SUFFIX,tving.com
+DOMAIN-SUFFIX,wavve.com
+DOMAIN-SUFFIX,weverse.io
+DOMAIN-SUFFIX,vlive.tv
+DOMAIN-SUFFIX,pandalive.co.kr
+
+# 音乐平台
+DOMAIN-SUFFIX,melon.com
+DOMAIN-SUFFIX,genie.co.kr
+DOMAIN-SUFFIX,bugs.co.kr
+DOMAIN-SUFFIX,soribada.com
+
+# 体育与内容
+DOMAIN-SUFFIX,spotvnow.co.kr
+
+# --- 游戏平台及更新服务器 ---
+# Nexon
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.net
+DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nx.com
+
+# NCSoft
+DOMAIN-SUFFIX,plaync.com
+DOMAIN-SUFFIX,ncsoft.com
+
+# Smilegate (Stove / Lost Ark)
+DOMAIN-SUFFIX,onstove.com
+DOMAIN-SUFFIX,smilegate.com
+DOMAIN-SUFFIX,smilegateinvest.com
+
+# Netmarble
+DOMAIN-SUFFIX,netmarble.com
+DOMAIN-SUFFIX,netmarble.net
+
+# Krafton (PUBG)
+DOMAIN-SUFFIX,krafton.com
+DOMAIN-SUFFIX,pubg.com
+
+# Pearl Abyss (Black Desert)
+DOMAIN-SUFFIX,pearlabyss.com
+DOMAIN-SUFFIX,playblackdesert.com
+# Kakao Games
+
+DOMAIN-SUFFIX,kakaogames.io
+
+# --- 韩国电商与购物 ---
+DOMAIN-SUFFIX,coupang.com
+DOMAIN-SUFFIX,coupangcdn.com
+DOMAIN-SUFFIX,coupangplay.com
+DOMAIN-SUFFIX,gmarket.co.kr
+DOMAIN-SUFFIX,auction.co.kr
+DOMAIN-SUFFIX,11st.co.kr
+DOMAIN-SUFFIX,ssg.com
+DOMAIN-SUFFIX,danawa.com
+
+# --- 韩国地理位置兜底 (GEOIP) ---
+# 当以上域名规则未命中时，通过 IP 归属地判断
+GEOIP,KR,no-resolve
