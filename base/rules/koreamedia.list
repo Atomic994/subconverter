@@ -102,6 +102,9 @@ DOMAIN-SUFFIX,11st.co.kr
 DOMAIN-SUFFIX,ssg.com
 DOMAIN-SUFFIX,danawa.com
 
+# --- 韩国演唱会票网站 ---
+DOMAIN-SUFFIX,yes24.com
+
 # --- 韩国地理位置兜底 (GEOIP) ---
 # 当以上域名规则未命中时，通过 IP 归属地判断
 GEOIP,KR,no-resolve
