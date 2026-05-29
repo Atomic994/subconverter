@@ -26,6 +26,19 @@ DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,now.com
 
+# ViuTV AWS / CDN
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+
+# 播放器相关
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN,content.jwplatform.com
+DOMAIN,videos-f.jwpsrv.com
+
 # MyTVSuper & TVB
 USER-AGENT,mytv*
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
@@ -74,15 +87,6 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hangseng.com
 DOMAIN-SUFFIX,standardchartered.com.hk
 DOMAIN-SUFFIX,bochk.com
-
-# --- 关键 CDN 注意事项 (谨慎分流) ---
-# 以下域名常被 ViuTV 使用，但属于全球 CDN。如果这些域名走香港不影响你其他上网，可以保留。
-DOMAIN,d1k2us671qcoau.cloudfront.net
-DOMAIN,d2anahhhmp1ffz.cloudfront.net
-DOMAIN,dfp6rglgjqszk.cloudfront.net
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwplayer.com
-DOMAIN-SUFFIX,youboranqs01.com
 
 # --- 香港地理位置兜底 ---
 GEOIP,HK,no-resolve
