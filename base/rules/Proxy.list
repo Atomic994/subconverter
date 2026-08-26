@@ -236,3 +236,8 @@ DOMAIN-SUFFIX,ofiii.com
 
 # Plex
 DOMAIN-SUFFIX,plex.tv
+
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
