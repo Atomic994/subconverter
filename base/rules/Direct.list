@@ -1269,3 +1269,6 @@ DOMAIN-SUFFIX,v4.plex.tv
 
 # MacOS APP
 PROCESS-NAME,Plex Media Server
+
+# api.github.com
+DOMAIN-SUFFIX,api.github.com
