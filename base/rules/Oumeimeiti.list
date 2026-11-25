@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,heads-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.demdex.net
-DOMAIN-SUFFIX,spotify.edgekey.neti
+DOMAIN-SUFFIX,spotify.edgekey.net
 DOMAIN-SUFFIX,spotify.map.fastly.net
 DOMAIN-SUFFIX,spotifycdn.map.fastly.net
 
@@ -66,7 +66,6 @@ DOMAIN,foxsports01-i.akamaihd.net
 DOMAIN,foxsports02-i.akamaihd.net
 DOMAIN,foxsports03-i.akamaihd.net
 DOMAIN,staticasiafox.akamaized.net
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,foxplus.com
 
 # Hulu
@@ -157,3 +156,76 @@ DOMAIN-SUFFIX,diver.eu.org
 DOMAIN-SUFFIX,wrod.diver.eu.org
 DOMAIN-SUFFIX,judy.xx.kg
 DOMAIN-SUFFIX,8plus.eu.org
+
+# --- 补充：此前完全缺失的主流欧美流媒体 ---
+# BBC（英区）
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbcverticals.com
+
+# ITV / Channel 4 / Channel 5（英区）
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,channel4.com
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,my5.tv
+DOMAIN-SUFFIX,uktvplay.co.uk
+
+# 德国
+DOMAIN-SUFFIX,zdf.de
+DOMAIN-SUFFIX,ard.de
+DOMAIN-SUFFIX,daserste.de
+DOMAIN-SUFFIX,rtl.de
+DOMAIN-SUFFIX,prosieben.de
+DOMAIN-SUFFIX,joyn.de
+
+# 法国
+DOMAIN-SUFFIX,france.tv
+DOMAIN-SUFFIX,francetvinfo.fr
+DOMAIN-SUFFIX,tf1.fr
+DOMAIN-SUFFIX,mytf1.fr
+DOMAIN-SUFFIX,m6.fr
+DOMAIN-SUFFIX,6play.fr
+DOMAIN-SUFFIX,canalplus.com
+DOMAIN-SUFFIX,arte.tv
+
+# Disney+（含 DRM/授权后端 bamgrid）
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,bamgrid.com
+
+# HBO Max
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,max.com
+
+# Prime Video
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+
+# Peacock / Paramount+ / ESPN
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espncdn.com
+
+# Crunchyroll
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,vrv.co
+
+# Twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ext-twitch.tv
+
+# --- 补充：IPTV 播放器客户端 ---
+PROCESS-NAME,mpv.exe
+PROCESS-NAME,potplayer.exe
+PROCESS-NAME,potplayermini64.exe
+PROCESS-NAME,vlc.exe
