@@ -98,6 +98,12 @@ DOMAIN-SUFFIX,danawa.com
 # --- 韩国演唱会票网站 ---
 DOMAIN-SUFFIX,yes24.com
 
+# --- 补充：此前遗漏的本地服务 ---
+# MBC 官网用 .com 域名，不在 co.kr 下
+DOMAIN-SUFFIX,imbc.com
+# Watcha 流媒体
+DOMAIN-SUFFIX,watcha.com
+
 # --- 韩国地理位置兜底 (GEOIP) ---
 # 当以上域名规则未命中时，通过 IP 归属地判断
 GEOIP,KR,no-resolve

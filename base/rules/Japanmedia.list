@@ -96,5 +96,9 @@ DOMAIN-SUFFIX,cygames.co.jp
 DOMAIN-SUFFIX,square-enix.com
 DOMAIN-SUFFIX,capcom.co.jp
 
+# --- 补充：此前遗漏的本地服务 ---
+# Hulu Japan，不在 co.jp 等二级域下
+DOMAIN-SUFFIX,hulu.jp
+
 # --- 日本地理位置兜底 ---
 GEOIP,JP,no-resolve

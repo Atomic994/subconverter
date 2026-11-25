@@ -88,5 +88,10 @@ DOMAIN-SUFFIX,hangseng.com
 DOMAIN-SUFFIX,standardchartered.com.hk
 DOMAIN-SUFFIX,bochk.com
 
+# --- 补充：此前遗漏的本地服务 ---
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,viu.akamaized.net
+
 # --- 香港地理位置兜底 ---
 GEOIP,HK,no-resolve

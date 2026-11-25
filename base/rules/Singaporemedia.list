@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,singtel-tv.com.sg
 
 # Astro等 (来自你提供的列表)
 DOMAIN-KEYWORD,astro
-DOMAIN-SUFFIX,wavve
 
 # 其他流媒体相关
 DOMAIN-SUFFIX,viddsee.com
@@ -41,6 +40,13 @@ DOMAIN-SUFFIX,standardchartered.com.sg
 # Garena (新加坡公司)
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,garena.sg
+
+# --- 补充：此前遗漏的本地媒体 ---
+# Mediacorp 旗下，走 .com 不在 .sg 下
+DOMAIN-SUFFIX,8world.com
+DOMAIN-SUFFIX,channelnewsasia.com
+# 海峡时报
+DOMAIN-SUFFIX,straitstimes.com
 
 # --- 新加坡地理位置兜底 ---
 GEOIP,SG,no-resolve
