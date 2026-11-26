@@ -1272,3 +1272,11 @@ PROCESS-NAME,Plex Media Server
 
 # api.github.com
 DOMAIN-SUFFIX,api.github.com
+
+# --- 自建节点域名：必须直连，否则会被代理回头绕成回环 ---
+DOMAIN-SUFFIX,pictures.wa1.one
+DOMAIN-SUFFIX,pictures.ta1.one
+DOMAIN-SUFFIX,pictures.ha1.one
+DOMAIN-SUFFIX,images.wa1.one
+DOMAIN-SUFFIX,images.ta1.one
+DOMAIN-SUFFIX,images.ha1.one
