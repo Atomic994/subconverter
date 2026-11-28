@@ -914,8 +914,6 @@ DOMAIN,zephir.monocul.us
 DOMAIN,zer0day.000webhostapp.com
 DOMAIN,zer0day.ch
 DOMAIN,zer0day.to
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
 IP-CIDR,5.2.79.22/32,no-resolve
 IP-CIDR,5.206.3.65/32,no-resolve
 IP-CIDR,5.206.38.65/32,no-resolve
